@@ -1,0 +1,19 @@
+{
+    "name":"processus/jsonrpcserver",
+    "type":"library",
+    "description":"JSON-RPC Server",
+    "keywords":["json", "rpc", "server"],
+    "homepage":"https://github.com/FrancisVarga/processus-jsonrpcserver",
+    "license":"MIT",
+    "authors":[
+        {
+            "name":"Francis Varga",
+            "email":"fv@varga-multimedia.com",
+            "homepage":"http://varga-multimedia.com/category/processus/",
+            "role":"Developer"
+        }
+    ],
+    "require":{
+        "php":">=5.3.0"
+    }
+}
