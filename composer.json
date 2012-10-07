@@ -1,0 +1,29 @@
+{
+    "name": "symfony/framework-standard-edition",
+    "description": "The \"Symfony Standard Edition\" distribution",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://packages.zendframework.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "propel/propel-bundle": "1.1.*",
+        "symfony/http-foundation": "2.1.*",
+        "symfony/console": "2.1.*",
+        "symfony/process": "2.1.*",
+        "symfony/assetic-bundle": "2.1.*",
+        "symfony/swiftmailer-bundle": "2.1.*",
+        "symfony/monolog-bundle": "2.1.*",
+        "sensio/distribution-bundle": "2.1.*",
+        "sensio/framework-extra-bundle": "2.1.*",
+        "sensio/generator-bundle": "2.1.*",
+        "zendframework/zend-json": "2.*",
+        "zendframework/zend-console": "2.*"
+    },
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "processus/couchpotato",
+    "type": "library",
+    "description": "Helper for modelling data into Couchbase",
+    "keywords": ["couchbase", "data", "modelling"],
+    "homepage": "https://github.com/FrancisVarga/processus-couchpotato",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francis Varga",
+            "email": "fv@varga-multimedia.com",
+            "homepage": "http://varga-multimedia.com/category/processus/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
